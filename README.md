@@ -1,7 +1,8 @@
 <h1 align="center">About me</h1>
 <h3>I am Yasin USLU, a JR Game Developer who constantly tries to improve himself.</h3>
 
-![6-yoghurt-gif-2](https://github.com/yesyu2/yesyu2/assets/98458144/1682a924-66a1-4985-bb14-a46879de609d)
+![54292f88b61d527c625e6b06fcf79268](https://github.com/yesyu2/yesyu2/assets/98458144/11b93145-4eff-4547-89be-2400a12b5321)
+
 
 
 
